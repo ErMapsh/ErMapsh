@@ -2,8 +2,6 @@
 <h3 align="center">I m not a just Programmer.</h3>
 <img  align="right" alt="coding" width="400" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ermapsh" alt="ermapsh" /></a> </p>
-
 - 🌱 I’m currently learning **React-Native**
 
 - 💬 Ask me about **Python, C, MERN, HTML, CSS, Js**
