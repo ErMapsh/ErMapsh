@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-8100
-Fork on GitHub
-1695
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Mahesh Mestri</h1>
 - 🌱 I’m currently learning **React-Native**
 
