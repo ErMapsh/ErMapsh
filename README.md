@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahesh Mestri</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ermapsh&label=Profile%20views&color=0e75b6&style=flat" alt="ermapsh" /> </p>
+<h3 align="center">I m not a just Programmer.</h3>
+<img  align="right" alt="coding" width="400" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ermapsh" alt="ermapsh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ermapsh" target="blank"><img src="https://img.shields.io/twitter/follow/ermapsh?logo=twitter&style=for-the-badge" alt="ermapsh" /></a> </p>
 
 - 🌱 I’m currently learning **React-Native**
 
