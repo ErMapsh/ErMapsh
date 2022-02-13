@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ermapsh" target="blank"><img src="https://img.shields.io/twitter/follow/ermapsh?logo=twitter&style=for-the-badge" alt="ermapsh" /></a> </p>
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **Python, C, MERN, HTML, CSS, Js**
 
