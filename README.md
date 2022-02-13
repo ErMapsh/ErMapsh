@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 💬 Ask me about **Python, C, MERN, HTML, CSS, Js**
+- 💬 Ask me about **Python, C, MERN, HTML, CSS, Js, React-Native**
 
 - 📫 How to reach me **maheshmestri73@gmail.com**
 
