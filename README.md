@@ -22,7 +22,7 @@
 <a href="https://twitter.com/ermapsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ermapsh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ermapsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ermapsh" height="30" width="40" /></a>
 <a href="https://instagram.com/ermapsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ermapsh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ermapsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ermapsh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCAG-vknnKk4Ii2y1_qPOUOg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ermapsh" height="30" width="40" /></a>
 <a href="https://discord.gg/G5QacnWBuE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="G5QacnWBuE" height="30" width="40" /></a>
 </p>
 
