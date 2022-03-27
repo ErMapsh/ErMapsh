@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **maheshmestri73@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wIUFwDG6p7GG9mZMqSWVEP75szbQVVvi/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rufyMkTkoKnYdtWwljysP_N0hLB03mmP/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
