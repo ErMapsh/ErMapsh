@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 🌠 [My Portfolio](https://portfolio-omega-eight-29.vercel.app/)  
+- 🌠 [My Portfolio](https://portfolio-omega-eight-29.vercel.app/){:target="_blank"}
 
 - 💬 Ask me about **Python, C, MERN, HTML, CSS, Js, React-Native**
 
 - 📫 How to reach me **maheshmestri73@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19Pr9Bhu3R1obbRRdQV5oIqHyYTwdxwZc/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19Pr9Bhu3R1obbRRdQV5oIqHyYTwdxwZc/view?usp=sharing){:target="_blank"}
 
 
 <h3 align="left">Connect with me:</h3>
