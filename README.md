@@ -23,7 +23,7 @@ I'm a full stack developer...
 
 📫 How to reach me [Instagram](https://www.instagram.com/ermapsh/)
 
-⚡️ Fun fact is My address is 192.168.1.1
+⚡️ Fun fact is I m not just a programmer😈
 
 
 <h3 align="left">Connect with me:</h3>
