@@ -19,7 +19,7 @@ I'm a full stack developer...
 
 🧠 I'm currently learning Java
 
-💬 Ask me about C, C++, Py, JS, React.js, MERN, DSA, Git.
+💬 Ask me about C, C++, Py, JS, React Native, MERN, DSA, Git.
 
 📫 How to reach me [Instagram](https://www.instagram.com/ermapsh/)
 
