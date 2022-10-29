@@ -21,7 +21,7 @@ I'm a full stack developer...
 
 💬 Ask me about C, C++, Py, JS, React Native, MERN, DSA, Git.
 
-📫 How to reach me <a href="mailto:maheshmestri73@gmail.com">maheshmestri73@gmail.com</a>
+📫 How to reach me <a href="mailto:maheshmestri73@gmail.com" target="_blank" rel="noopener noreferrer">maheshmestri73@gmail.com</a>
 
 ⚡️ Fun fact is I m not just a programmer😈
 
