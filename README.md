@@ -21,7 +21,7 @@ I'm a full stack developer...
 
 💬 Ask me about C, C++, Py, JS, React Native, MERN, DSA, Git.
 
-📫 How to reach me [Instagram](https://www.instagram.com/ermapsh/)
+📫 How to reach me <a href="mailto:maheshmestri73@gmail.com">maheshmestri73@gmail.com</a>
 
 ⚡️ Fun fact is I m not just a programmer😈
 
